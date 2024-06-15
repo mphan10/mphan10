@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -----------------
 
-I'm a software engineer based out of Salt Lake City, UT. I have more than 10yrs experience in full stack dev. I love creating and using new tech so I lean towards frontend development and working on innovative projects. In my free time, I enjoy golfing, working out, hanging with friends and learning.
+I'm a software engineer based out of Salt Lake City, UT. I have more than 10yrs experience in full stack dev. I love creating and using new tech. I lean towards frontend development and love working on innovative projects. In my free time I enjoy golfing, working out, hanging with friends and learning.
 
 * 🌍  I'm based in Salt Lake City
 * 🖥️  See my portfolio at [mike-phan.com](http://mike-phan.com/)
